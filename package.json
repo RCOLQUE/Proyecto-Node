@@ -1,0 +1,14 @@
+{
+  "name": "upskilling",
+  "version": "0.0.1",
+  "description": "Curso ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
